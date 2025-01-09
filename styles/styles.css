@@ -6,10 +6,12 @@ padding:0;} */
 
 .banner{background:linear-gradient(180deg, rgb(7, 2, 17),rgba(7, 2, 17, 0)100%), url("/assets/images/Banner\ Image.png");
 background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
 width:1320px;
-height:600px;
+height: 600px;
 border-radius: 16px;
-margin:50px 140px;
+margin:0 auto;
 display:flex;
 justify-content: center;
 align-items: center;
@@ -31,18 +33,9 @@ text-align: center;
     
 }
 /* mid section */
-/* .mid{
-    background-image: url(/assets/images/New\ Year\ Photo.png);
-    background-repeat: no-repeat;
-    width:810px;
-    height:651px;
-    margin: 120px 258px;
-    display:flex;
-    justify-content: center;
-    align-items:start; */
 
-    /* .mid{display:flex;
-    justify-content: center;} */
+    .mid{width:803px;
+    margin: 0 auto;}
 
 .midh1{
     text-align: center;
@@ -55,10 +48,4 @@ text-align: center;
     text-align: center;
 }
 
-.mid-img{
-    background-repeat: no-repeat;
-    width:810px;
-    height:651px;
-   
-    margin: 120px 150px 120px 340px;
-}
+/* midnight party mid2 section */
