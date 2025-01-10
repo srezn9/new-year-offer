@@ -49,3 +49,41 @@ text-align: center;
 }
 
 /* midnight party mid2 section */
+.mid2{
+    background-image: url("/assets/images/Vectorrr.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width:1320px;
+    height:600;
+    margin:0 auto;
+    border-radius: 16px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.mid2h2{
+    /* margin: 126px 552px 298px 126px; */
+    font-weight: 900;
+    font-size:64px;
+    color:#FFFFFF;
+    text-align: left;
+    margin-right: 55px;
+    width:642;
+    height:176;
+}
+.mid2p{
+    font-size:18px;
+    color:#FFFFFF;
+    text-align: left;
+    margin-top: 24px;
+    width:697px;
+    height:60px;
+}
+.mid2join{
+    font-size: 20px;
+    color:#FFFFFF;
+    text-align: left;
+}
